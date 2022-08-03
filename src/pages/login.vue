@@ -72,6 +72,11 @@ export default {
    /* height: 500px; */
     
 }
+
+/* .btn-lg{
+margin-left: 10rem;
+		
+} */
 .login-form form {
 	color: #434343;
 	border-radius: 1px;

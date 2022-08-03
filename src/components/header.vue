@@ -4,7 +4,7 @@
       <nav>
         <ul>
           <li><a href="/">HOME</a></li>
-          <li><a href="#">ABOUT</a></li>
+          <li><a href="/about">ABOUT</a></li>
           <li><a href="#">TESTIMONIALS</a></li>
           <li><a href="/login"><span>LOGIN</span></a></li>
           <li><a href="/register"><span>REGISTER</span></a></li>
