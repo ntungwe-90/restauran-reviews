@@ -133,6 +133,16 @@ export default {
     background-color: #baf0eb;
 
 }
+.testimonial-col2{
+    flex-basis: 28%;
+    padding: 10px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px 3px #00968814;
+    background-color: #baf0eb;
+
+}
+
 
 .testimonial-col p {
     font-size: 14px;
